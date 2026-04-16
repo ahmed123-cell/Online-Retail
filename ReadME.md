@@ -42,9 +42,6 @@ RFM segmentation is based on:
 * **Monetary (M):** How much they spend
 
 These features are used to cluster customers into meaningful groups.
-```
-
----
 
 ## ⚙️ How to Run the Project
 
