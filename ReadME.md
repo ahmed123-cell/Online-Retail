@@ -65,14 +65,10 @@ pip install -r requirements.txt
 #### Run the Streamlit App
 
 ```
-streamlit run app/app.py
+streamlit run streamlit_app.py
 ```
 
-Then open your browser at:
-
-```
-http://localhost:8501
-```
+it will open in your browser automaticlly
 
 ---
 
