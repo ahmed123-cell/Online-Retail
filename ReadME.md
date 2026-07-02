@@ -53,12 +53,6 @@ A professional **Power BI Dashboard** was created to provide clear, interactive 
 - Used **Power Query** to clean the data (removed negative prices, outliers, and duplicates).
 - Built using **Microsoft Power BI**.
 
-### Screenshots
-
-![Online Retail Dashboard - Revenue & Product Overview](images/page1.png)
-
-![Online Retail Dashboard - Customer & Cancellation Analysis](images/page2.png)
-
 > You can open the `.pbix` file (if included in the repository) using Power BI Desktop for full interactivity.
 
 ---
